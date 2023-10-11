@@ -1,11 +1,11 @@
 title: Azhar Myrzasheva # your name (or website title) here
 logo: "https://github.com/Azhar-data-analyst/Portfolio_Azhar-Myrzasheva/tree/master/images#:~:text=yesterday-,My%20picture.png,-(File)" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  For the position of a data analyst or data scientist
+  Data analyst with a year of experience with the London School of Economics.
   <br><br>
-  Second description 
+  Skills: SQL, Tableau, Excel for data analysis, Python, R.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/azhar-myrzasheva-data-analyst/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
